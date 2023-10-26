@@ -1,8 +1,13 @@
 h3 {
-
-  font-family: 'Oswald', sans-serif;
-font-family: 'Sedgwick Ave Display', cursive;
-font-family: 'Young Serif', serif;
+  font-family: 'Nosifer', sans-serif;
 }
-  
 
+h1 {
+  font-family: 'Noto Sans Osmanya', sans-serif;
+  color:brown;
+}
+
+p {
+  font-family: 'Playpen Sans', cursive;
+  color:blue;
+}
