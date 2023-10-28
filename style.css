@@ -1,5 +1,15 @@
+
+.miguel-cabrera {
+  width:90px;
+  border-width: 5px;
+  border-color: blue;
+  border-style: solid;
+}
 h3 {
-  font-family: 'Nosifer', sans-serif;
+  
+  font-family: 'Dancing Script', cursive;
+  font-size: 70px;
+  color:blue
 }
 
 h1 {
