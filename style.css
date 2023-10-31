@@ -1,12 +1,9 @@
 
 .miguel-cabrera {
-  width:90px;
-  border-width: 5px;
-  border-color: blue;
-  border-style: solid;
+  border-radius: 50% ;
 }
+
 h3 {
-  
   font-family: 'Dancing Script', cursive;
   font-size: 70px;
   color:blue
@@ -20,4 +17,11 @@ h1 {
 p {
   font-family: 'Playpen Sans', cursive;
   color:blue;
+}
+  div {
+    background-color: blue;
+}
+#luis-arraez {
+  border-radius: 50%;
+  border-width: 20px;
 }
