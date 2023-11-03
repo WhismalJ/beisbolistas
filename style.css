@@ -21,7 +21,9 @@ p {
   div {
     background-color: blue;
 }
-#luis-arraez {
+#pelotero-venezolano {
   border-radius: 50%;
-  border-width: 20px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: brown;
 }
