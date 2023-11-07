@@ -22,6 +22,7 @@ p {
     background-color: blue;
 }
 #pelotero-venezolano {
+  padding: 10px;
   border-radius: 50%;
   border-width: 5px;
   border-style: solid;
